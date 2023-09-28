@@ -1,6 +1,6 @@
 # Goat Head
 
-Mesh of an goat heat, remeshed from a mesh by by [hugoelec via Thingiverse](https://www.thingiverse.com/thing:42256).
+Mesh of a goat heat, remeshed from a mesh by by [hugoelec via Thingiverse](https://www.thingiverse.com/thing:42256).
 
 ![goathead](goathead.png)
 
