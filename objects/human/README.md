@@ -6,7 +6,7 @@ Man:
 ![human_man](human_man.png)
 
 Woman:
-![human_woman](human_man.png)
+![human_woman](human_woman.png)
 
 Gender-neutral:
 ![human_neutral](human_neutral.png)
