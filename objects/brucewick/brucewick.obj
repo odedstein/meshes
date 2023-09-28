@@ -2,9 +2,6 @@
 # 3D Model: Brucewick
 # Licensed under the Creative Commons Attribution-NonCommercial 4.0 International License:
 # https://creativecommons.org/licenses/by-nc/4.0/
-
-
-o Brucewick
 v -0.069932 0.745819 -0.043295
 v -0.029295 0.139910 -0.235190
 v 0.161034 0.109936 0.055727
@@ -4110,9 +4107,6 @@ vn 0.5967 -0.4679 0.6520
 vn 0.9827 0.0968 0.1578
 vn 0.6616 -0.2285 0.7142
 vn 0.1190 0.3751 0.9193
-g Quad_Sphere_Quad_Sphere_Material
-usemtl Material
-s off
 f 725//1 1104//1 726//1
 f 271//2 1249//2 967//2
 f 1114//3 1269//3 1115//3
