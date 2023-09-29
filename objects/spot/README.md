@@ -14,3 +14,10 @@ Spot control mesh:
 The original quad mesh was released into the public domain by its creator.
 The remeshed versions are hereby also released into the public domain.
 
+You can cite this object in your work using this bibtex snippet:
+    @misc{spot-mesh,
+      title = {{Spot}},
+      author = {Crane, Keenan},
+      note = {Downloaded modified version from odedstein-meshes \url{github.com/odedstein/meshes/tree/master/objects/spot}, originally from \url{cs.cmu.edu/~kmcrane/Projects/ModelRepository}.},
+      year = {2019}
+    }

@@ -1,4 +1,4 @@
-# odedstein/meshes
+# odedstein-meshes: A Computer Graphics Example Mesh Repository
 
 This repository contains a variety of meshes and associated data that are useful for examples in computer graphics.
 
@@ -49,5 +49,13 @@ The manifold information is not completely reliable, at the moment it only check
 | [violin](https://github.com/odedstein/meshes/tree/master/objects/violin) | ![violin](https://raw.githubusercontent.com/odedstein/meshes/master/objects/violin/violin.png) | 127968 | 255952 | 1 | No | Yes |
 | [wingnut](https://github.com/odedstein/meshes/tree/master/objects/wingnut) | ![wingnut](https://raw.githubusercontent.com/odedstein/meshes/master/objects/wingnut/wingnut.png) | 3047 | 6090 | 1 | No | Yes |
 
+
+You can cite this repository overall using the following bibtex snippet, but please be sure to credit the authors of each of the assets you use individually:
+    @article{odedstein-meshes,
+      title={odedstein-meshes: A Computer Graphics Example Mesh Repository},
+      author={Stein, Oded},
+      notes={\url{github.com/odedstein/meshes}},
+      year={2023}
+    }
 
 _Please make sure you follow the requirements of the respective licenses for each object in this collection._
