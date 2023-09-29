@@ -7,9 +7,11 @@ Mesh of a boat created using the methods from the paper ["Developability of Tria
 The mesh is hereby released under the [Creative Commons Attribution 4.0 International (CC BY 4.0) license](https://creativecommons.org/licenses/by/4.0/).
 
 You can cite this object in your work using this bibtex snippet:
-    @misc{boat-mesh,
-      title = {{Boat}},
-      author = {Stein, Oded and Grinspun, Eitan and Crane, Keenan},
-      note = {Downloaded from odedstein-meshes \url{github.com/odedstein/meshes/tree/master/objects/boat}. Asset licensed under CC BY 4.0.},
-      year = {2019}
-    }
+```
+@misc{boat-mesh,
+  title = {{Boat}},
+  author = {Stein, Oded and Grinspun, Eitan and Crane, Keenan},
+  note = {Downloaded from odedstein-meshes \url{github.com/odedstein/meshes/tree/master/objects/boat}. Asset licensed under CC BY 4.0.},
+  year = {2019}
+}
+```

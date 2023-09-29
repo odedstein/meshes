@@ -12,9 +12,11 @@ This model [was scanned by Nora Al-Badri and Jan Nikolai Nelles in 2016 and rele
 The modified version is also released into the public domain.
 
 You can cite this object in your work using this bibtex snippet:
-    @misc{nefertiti-mesh,
-      title = {{Nefertiti}},
-      author = {Al-Badri, Nora and Nelles, Jan Nikolai},
-      note = {Downloaded modified version from odedstein-meshes \url{github.com/odedstein/meshes/tree/master/objects/nefertiti}.},
-      year = {2023}
-    }
+```
+@misc{nefertiti-mesh,
+  title = {{Nefertiti}},
+  author = {Al-Badri, Nora and Nelles, Jan Nikolai},
+  note = {Downloaded modified version from odedstein-meshes \url{github.com/odedstein/meshes/tree/master/objects/nefertiti}.},
+  year = {2023}
+}
+```

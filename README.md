@@ -51,11 +51,13 @@ The manifold information is not completely reliable, at the moment it only check
 
 
 You can cite this repository overall using the following bibtex snippet, but please be sure to credit the authors of each of the assets you use individually:
-    @article{odedstein-meshes,
-      title={odedstein-meshes: A Computer Graphics Example Mesh Repository},
-      author={Stein, Oded},
-      notes={\url{github.com/odedstein/meshes}},
-      year={2023}
-    }
+```
+@article{odedstein-meshes,
+  title={odedstein-meshes: A Computer Graphics Example Mesh Repository},
+  author={Stein, Oded},
+  notes={\url{github.com/odedstein/meshes}},
+  year={2023}
+}
+```
 
 _Please make sure you follow the requirements of the respective licenses for each object in this collection._
