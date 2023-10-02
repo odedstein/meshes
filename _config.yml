@@ -1,7 +1,7 @@
 title: odedstein-meshes
 description: A Computer Graphics Example Mesh Repository
 show_downloads: true
-remote_theme: pages-themes/primer@v0.2.0
+remote_theme: pages-themes/primer@v0.6.0
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 exclude: objects/
