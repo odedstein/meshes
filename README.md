@@ -60,7 +60,7 @@ You can cite this repository overall using the following bibtex snippet, but ple
 @article{odedstein-meshes,
   title={odedstein-meshes: A Computer Graphics Example Mesh Repository},
   author={Stein, Oded},
-  notes={\url{github.com/odedstein/meshes}},
+  notes={\url{odedstein.com/meshes}},
   year={2023}
 }
 ```
