@@ -12,12 +12,10 @@ Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/), w
 
 You can cite this object in your work using this bibtex snippet:
 ```
-{% raw %}
 @misc{violin-mesh,
   title = {{Violin}},
   author = {{Virtual Museums of Ma\l{}opolska}},
   note = {Downloaded modified version from odedstein-meshes \url{github.com/odedstein/meshes/tree/master/objects/violin}, originally from \url{sketchfab.com/3d-models/violin-a784af0713a643b19ffcf65194bc0fbf}.},
   year = {2023}
 }
-{% endraw %}
 ```
