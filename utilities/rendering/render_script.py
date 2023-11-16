@@ -16,7 +16,8 @@ for obj in all_objects:
         ref_obj_name = 'obj'
         bpy.ops.object.select_all(action='DESELECT')
 
-        bpy.ops.import_scene.obj(filepath=mesh_path)
+        # bpy.ops.import_scene.obj(filepath=mesh_path)
+        bpy.ops.wm.obj_import(filepath=mesh_path)
         new_obj_name = os.path.splitext(os.path.basename(mesh_path))[0]
         new_obj = bpy.data.objects[new_obj_name];
 

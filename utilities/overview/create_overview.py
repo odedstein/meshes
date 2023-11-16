@@ -11,6 +11,7 @@ objects_dir = os.path.join(os.path.dirname(__file__), '..', '..', 'objects')
 objects_url = "https://github.com/odedstein/meshes/tree/master/objects"
 objects_raw_url = "https://raw.githubusercontent.com/odedstein/meshes/master/objects"
 all_objects = [d for d in os.listdir(objects_dir) if os.path.isdir(os.path.join(objects_dir,d))]
+all_objects.sort()
 
 for obj in all_objects:
     # Account for meshes not named like their directories.

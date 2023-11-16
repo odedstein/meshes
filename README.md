@@ -23,6 +23,7 @@ The manifold information is not completely reliable, at the moment it only check
 | [brucewick](https://github.com/odedstein/meshes/tree/master/objects/brucewick) | ![brucewick](https://raw.githubusercontent.com/odedstein/meshes/master/objects/brucewick/brucewick.png) | 1431 | 2858 | 1 | No | Yes |
 | [bunny](https://github.com/odedstein/meshes/tree/master/objects/bunny) | ![bunny](https://raw.githubusercontent.com/odedstein/meshes/master/objects/bunny/bunny.png) | 3301 | 6598 | 1 | No | Yes |
 | [cat](https://github.com/odedstein/meshes/tree/master/objects/cat) | ![cat](https://raw.githubusercontent.com/odedstein/meshes/master/objects/cat/cat.png) | 849126 | 1698248 | 1 | No | Yes |
+| [cheese](https://github.com/odedstein/meshes/tree/master/objects/cheese) | ![cheese](https://raw.githubusercontent.com/odedstein/meshes/master/objects/cheese/cheese.png) | 237119 | 474234 | 1 | No | Yes |
 | [cow](https://github.com/odedstein/meshes/tree/master/objects/cow) | ![cow](https://raw.githubusercontent.com/odedstein/meshes/master/objects/cow/cow.png) | 399999 | 799998 | 1 | No | Yes |
 | [cube](https://github.com/odedstein/meshes/tree/master/objects/cube) | ![cube](https://raw.githubusercontent.com/odedstein/meshes/master/objects/cube/cube.png) | 26 | 48 | 1 | No | Yes |
 | [demosthenes](https://github.com/odedstein/meshes/tree/master/objects/demosthenes) | ![demosthenes](https://raw.githubusercontent.com/odedstein/meshes/master/objects/demosthenes/demosthenes.png) | 120309 | 240293 | 1 | Yes | Yes |
