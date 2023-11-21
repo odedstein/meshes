@@ -39,7 +39,7 @@ The manifold information is not completely reliable, at the moment it only check
 | [mushroom](https://github.com/odedstein/meshes/tree/master/objects/mushroom) | ![mushroom](https://raw.githubusercontent.com/odedstein/meshes/master/objects/mushroom/mushroom.png) | 11585 | 23166 | 1 | No | Yes |
 | [nefertiti](https://github.com/odedstein/meshes/tree/master/objects/nefertiti) | ![nefertiti](https://raw.githubusercontent.com/odedstein/meshes/master/objects/nefertiti/nefertiti.png) | 1009118 | 2018232 | 1 | No | Yes |
 | [parsnip](https://github.com/odedstein/meshes/tree/master/objects/parsnip) | ![parsnip](https://raw.githubusercontent.com/odedstein/meshes/master/objects/parsnip/parsnip.png) | 99266 | 198752 | 1 | No | Yes |
-| [penguin](https://github.com/odedstein/meshes/tree/master/objects/penguin) | ![penguin](https://raw.githubusercontent.com/odedstein/meshes/master/objects/penguin/penguin.png) | 36738 | 73472 | 1 | No | Yes |
+| [penguin](https://github.com/odedstein/meshes/tree/master/objects/penguin) | ![penguin](https://raw.githubusercontent.com/odedstein/meshes/master/objects/penguin/penguin.png) | 3362 | 6720 | 1 | No | Yes |
 | [pizza](https://github.com/odedstein/meshes/tree/master/objects/pizza) | ![pizza](https://raw.githubusercontent.com/odedstein/meshes/master/objects/pizza/pizza.png) | 24916 | 49954 | 1 | Yes | Yes |
 | [plane](https://github.com/odedstein/meshes/tree/master/objects/plane) | ![plane](https://raw.githubusercontent.com/odedstein/meshes/master/objects/plane/plane.png) | 8730 | 17456 | 1 | No | Yes |
 | [scorpion](https://github.com/odedstein/meshes/tree/master/objects/scorpion) | ![scorpion](https://raw.githubusercontent.com/odedstein/meshes/master/objects/scorpion/scorpion.png) | 49997 | 99990 | 1 | No | Yes |
@@ -54,7 +54,6 @@ The manifold information is not completely reliable, at the moment it only check
 | [tower](https://github.com/odedstein/meshes/tree/master/objects/tower) | ![tower](https://raw.githubusercontent.com/odedstein/meshes/master/objects/tower/tower.png) | 190087 | 380182 | 1 | No | Yes |
 | [violin](https://github.com/odedstein/meshes/tree/master/objects/violin) | ![violin](https://raw.githubusercontent.com/odedstein/meshes/master/objects/violin/violin.png) | 127968 | 255952 | 1 | No | Yes |
 | [wingnut](https://github.com/odedstein/meshes/tree/master/objects/wingnut) | ![wingnut](https://raw.githubusercontent.com/odedstein/meshes/master/objects/wingnut/wingnut.png) | 3047 | 6090 | 1 | No | Yes |
-
 
 You can cite this repository overall using the following bibtex snippet, but please be sure to credit the authors of each of the assets you use individually:
 ```

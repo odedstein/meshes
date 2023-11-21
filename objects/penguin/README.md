@@ -5,6 +5,9 @@ Control mesh and high-resolution mesh of a penguin.
 Penguin:
 ![penguin](penguin.png)
 
+Higher-resolution penguin:
+![Higher-resolution penguin](penguin_hr.png)
+
 Penguin control mesh:
 ![penguin_control_mesh](penguin_control_mesh.png)
 
