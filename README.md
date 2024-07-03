@@ -52,6 +52,7 @@ The manifold information is not completely reliable, at the moment it only check
 | [sword](https://github.com/odedstein/meshes/tree/master/objects/sword) | ![sword](https://raw.githubusercontent.com/odedstein/meshes/master/objects/sword/sword.png) | 22293 | 44582 | 1 | No | Yes |
 | [torus](https://github.com/odedstein/meshes/tree/master/objects/torus) | ![torus](https://raw.githubusercontent.com/odedstein/meshes/master/objects/torus/torus.png) | 2304 | 4608 | 1 | No | Yes |
 | [tower](https://github.com/odedstein/meshes/tree/master/objects/tower) | ![tower](https://raw.githubusercontent.com/odedstein/meshes/master/objects/tower/tower.png) | 190087 | 380182 | 1 | No | Yes |
+| [tree](https://github.com/odedstein/meshes/tree/master/objects/tree) | ![tree](https://raw.githubusercontent.com/odedstein/meshes/master/objects/tree/tree.png) | 229986 | 458523 | 1 | Yes | Yes |
 | [violin](https://github.com/odedstein/meshes/tree/master/objects/violin) | ![violin](https://raw.githubusercontent.com/odedstein/meshes/master/objects/violin/violin.png) | 127968 | 255952 | 1 | No | Yes |
 | [wingnut](https://github.com/odedstein/meshes/tree/master/objects/wingnut) | ![wingnut](https://raw.githubusercontent.com/odedstein/meshes/master/objects/wingnut/wingnut.png) | 3047 | 6090 | 1 | No | Yes |
 
