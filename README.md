@@ -32,6 +32,7 @@ The manifold information is not completely reliable, at the moment it only check
 | [goathead](https://github.com/odedstein/meshes/tree/master/objects/goathead) | ![goathead](https://raw.githubusercontent.com/odedstein/meshes/master/objects/goathead/goathead.png) | 2763 | 5522 | 1 | No | Yes |
 | [hammer](https://github.com/odedstein/meshes/tree/master/objects/hammer) | ![hammer](https://raw.githubusercontent.com/odedstein/meshes/master/objects/hammer/hammer.png) | 30082 | 60160 | 1 | No | Yes |
 | [hand](https://github.com/odedstein/meshes/tree/master/objects/hand) | ![hand](https://raw.githubusercontent.com/odedstein/meshes/master/objects/hand/hand.png) | 51329 | 102528 | 1 | Yes | Yes |
+| [house](https://github.com/odedstein/meshes/tree/master/objects/house) | ![house](https://raw.githubusercontent.com/odedstein/meshes/master/objects/house/house.png) | 272723 | 545930 | 1 | No | Yes |
 | [human](https://github.com/odedstein/meshes/tree/master/objects/human) | ![human](https://raw.githubusercontent.com/odedstein/meshes/master/objects/human/human_neutral.png) | 10475 | 20908 | 3 | Yes | Yes |
 | [koala](https://github.com/odedstein/meshes/tree/master/objects/koala) | ![koala](https://raw.githubusercontent.com/odedstein/meshes/master/objects/koala/koala.png) | 49999 | 99994 | 1 | No | Yes |
 | [lionstatue](https://github.com/odedstein/meshes/tree/master/objects/lionstatue) | ![lionstatue](https://raw.githubusercontent.com/odedstein/meshes/master/objects/lionstatue/lionstatue.png) | 31825 | 63338 | 1 | Yes | Yes |
@@ -62,7 +63,7 @@ You can cite this repository overall using the following bibtex snippet, but ple
   title={odedstein-meshes: A Computer Graphics Example Mesh Repository},
   author={Stein, Oded},
   notes={\url{odedstein.com/meshes}},
-  year={2023}
+  year={2024}
 }
 ```
 
